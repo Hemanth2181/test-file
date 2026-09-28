@@ -10,4 +10,5 @@ whoami
 
 echo "Current directory:"
 pwd
-added a new line
+added a new line test line
+adding another line to the same test 3
