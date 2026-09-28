@@ -10,3 +10,4 @@ whoami
 
 echo "Current directory:"
 pwd
+added a new line
