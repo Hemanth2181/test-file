@@ -12,3 +12,4 @@ echo "Current directory:"
 pwd
 added a new line test line
 adding another line to the same test
+Now dding one more line for the test
